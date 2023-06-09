@@ -308,6 +308,26 @@ blockquote {
     font-size: 4rem;
 
     a {
+      &[href*="mailto:"] i::before {
+        color: #D44638; /* Color for email icon */
+      }
+
+      &[href*="github.com"] i::before {
+        color: #000; /* Color for GitHub icon */
+      }
+
+      &[href*="linkedin.com"] i::before {
+        color: #0077b5; /* Color for LinkedIn icon */
+      }
+
+      &[href*="twitter.com"] i::before {
+        color: #1DA1F2; /* Color for Twitter icon */
+      }
+
+      &[href*="rss.xml"] i::before {
+        color: #FFA500; /* Color for RSS feed icon */
+      }
+
       i::before {
         color: var(--global-text-color);
         transition-property: all 0.2s ease-in-out;

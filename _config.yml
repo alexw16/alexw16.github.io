@@ -72,10 +72,10 @@ og_image: # The site-wide (default for all links) Open Graph preview image
 # -----------------------------------------------------------------------------
 
 github_username: alexw16 # your GitHub user name
-gitlab_username: alexpywu # your GitLab user name
-twitter_username: # your Twitter handle
+gitlab_username: # your GitLab user name
+twitter_username: alexpywu # your Twitter handle
 mastodon_username: # your mastodon instance+username in the format instance.tld/@username
-linkedin_username: # your LinkedIn user name
+linkedin_username: alexander-wu-57122678 # your LinkedIn user name
 telegram_username: # your Telegram user name
 scholar_userid: RfSo14sAAAAJ # your Google Scholar ID
 semanticscholar_id: # your Semantic Scholar ID
@@ -105,8 +105,8 @@ facebook_id: # your facebook id
 youtube_id: # your youtube channel id (youtube.com/@<youtube_id>)
 discord_id: # your discord id (18-digit unique numerical identifier)
 
-contact_note: >
-  You can even add a little note about which of these is the best way to reach you.
+contact_note: # >
+  # You can even add a little note about which of these is the best way to reach you.
 
 # -----------------------------------------------------------------------------
 # Analytics and search engine verification
@@ -123,7 +123,8 @@ bing_site_verification:  # out your bing-site-verification ID (Bing Webmaster)
 # -----------------------------------------------------------------------------
 
 blog_name: al-folio # blog_name will be displayed in your blog page
-blog_nav_title: blog # your blog must have a title for it to be displayed in the nav bar
+  # blog_nav_title: # blog # your blog must have a title for it to be displayed in the nav bar
+blog_nav_title:
 blog_description: a simple whitespace theme for academics
 permalink: /blog/:year/:title/
 
