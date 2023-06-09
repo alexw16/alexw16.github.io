@@ -369,6 +369,21 @@ blockquote {
 .social .contact-icons {
   font-size: 4rem;
 }
+.social .contact-icons a[href*="mailto:"] i::before {
+  color: #D44638; /* Color for email icon */
+}
+.social .contact-icons a[href*="github.com"] i::before {
+  color: #000; /* Color for GitHub icon */
+}
+.social .contact-icons a[href*="linkedin.com"] i::before {
+  color: #0077b5; /* Color for LinkedIn icon */
+}
+.social .contact-icons a[href*="twitter.com"] i::before {
+  color: #1DA1F2; /* Color for Twitter icon */
+}
+.social .contact-icons a[href*="rss.xml"] i::before {
+  color: #FFA500; /* Color for RSS feed icon */
+}
 .social .contact-icons a i::before {
   color: var(--global-text-color);
   transition-property: all 0.2s ease-in-out;
