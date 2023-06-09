@@ -3,6 +3,8 @@
   contents:
     - name: Full Name
       value: Alexander Po-Yen Wu
+    - name: Interests
+      value: Graph machine learning, causal inference, biological networks, biomolecular design
 
 - title: Education
   type: time_table
