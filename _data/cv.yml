@@ -2,7 +2,7 @@
   type: map
   contents:
     - name: Full Name
-      value: Alexander P. Wu
+      value: Alexander Po-Yen Wu
 
 - title: Education
   type: time_table
@@ -25,8 +25,8 @@
       year: Sept 2018-May 2023
       description:
         - Graph machine learning and causal inference for studying single-cell gene regulatory dynamics 
-        - Enhancer-gene interactions for interpreting effects of disease variants on gene dysregulation
-        - TF-gene interactions using RNA velocity graphs to analyze temporal regulation of gene expression
+        - Enhancer-gene interactions for interpreting effects of noncoding disease variants on gene dysregulation
+        - Causal TF-gene interactions using RNA velocity graphs to uncover patterns of gene regulatory timing
         - Single-cell multi-omic profiling of CRISPR perturbations to chromatin remodelers in cancer
         - Bayesian methods for reconstructing gene regulatory networks in small sample size settings
 
@@ -40,7 +40,7 @@
       institution: <a href="https://cortex.twitter.com/en.html">Twitter Cortex</a> 
       year: Jun 2022-Oct 2022
       description:
-        - Causal graph machine learning for improving generalizability & interpretability of graph attention
+        - Causal graph machine learning for improving the performance of graph attention networks
 
     - title: Deep Learning Intern
       institution: <a href="https://www.quantum-si.com">Quantum-Si</a> 
