@@ -272,7 +272,7 @@ display_tags: ['formatting', 'images', 'links', 'math', 'code'] # these tags wil
 scholar:
 
   last_name: [Wu]
-  first_name: [Alexander]
+  first_name: [Alexander, Alexander P.]
 
   style: apa
   locale: en
