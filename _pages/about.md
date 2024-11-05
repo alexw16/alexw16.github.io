@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: Senior AI Scientist at <a href='https://www.gene.com'>Genentech</a> 
+subtitle: Senior Machine Learning Scientist at <a href='https://www.gene.com'>Genentech</a> 
 # PhD Candidate in <a href='https://csbphd.mit.edu'>Computational and Systems Biology</a> at <a href='https://www.csail.mit.edu'>MIT CSAIL</a> 
 
 profile:
