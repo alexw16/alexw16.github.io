@@ -26,26 +26,26 @@
       institution: <a href="https://www.csail.mit.edu">Computer Science and Artificial Intellience Laboratory, MIT</a>
       year: Sept 2018-May 2023
       description:
-        - Graph machine learning and causal inference for studying single-cell gene regulatory dynamics 
-        - Enhancer-gene interactions for interpreting effects of noncoding disease variants on gene dysregulation
-        - Causal TF-gene interactions using RNA velocity graphs to uncover patterns of gene regulatory timing
-        - Single-cell multi-omic profiling of CRISPR perturbations to chromatin remodelers in cancer
-        - Bayesian methods for reconstructing gene regulatory networks in small sample size settings
+        - Graph machine learning and causal inference for studying single-cell gene regulatory dynamics. 
+        - Enhancer-gene interactions for interpreting effects of noncoding disease variants on gene dysregulation.
+        - Causal TF-gene interactions using RNA velocity graphs to uncover patterns of gene regulatory timing.
+        - Single-cell multi-omic profiling of CRISPR perturbations to chromatin remodelers in cancer.
+        - Bayesian methods for reconstructing gene regulatory networks in small sample size settings.
 
-    - title: Computational Sciences Intern
+    - title: Machine Learning  Intern
       institution: <a href="https://primemedicine.com">Prime Medicine</a> 
       year: Jan 2023-June 2023
       description:
-        - Machine learning for prime editing
+        - Machine learning for designing CRISPR prime editors.
 
     - title: Machine Learning Research Intern
       institution: <a href="https://cortex.twitter.com/en.html">Twitter Cortex</a> 
       year: Jun 2022-Oct 2022
       description:
-        - Causal graph machine learning for improving the performance of graph attention networks
+          Causal graph machine learning for improving the performance of graph attention networks.
 
-    - title: Deep Learning Intern
+    - title: Deep Learning Scientist Intern
       institution: <a href="https://www.quantum-si.com">Quantum-Si</a> 
       year: Jun 2018-Aug 2018
       description:
-        - Machine learning on biological knowledge graphs for protein function prediction
+        - Machine learning on biological knowledge graphs for protein function prediction.
