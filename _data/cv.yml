@@ -15,7 +15,7 @@
     - title: SM in Computational Biology and Quantitative Genetics 
       institution: Harvard University 
       year: 2018
-    - title: BS in Operations Research, Minor in Applied Mathematics 
+    - title: BS in Operations Research, Applied Mathematics 
       institution: Columbia University 
       year: 2016
 
@@ -32,17 +32,17 @@
         - Single-cell multi-omic profiling of CRISPR perturbations to chromatin remodelers in cancer.
         - Bayesian methods for reconstructing gene regulatory networks in small sample size settings.
 
-    - title: Machine Learning  Intern
+    - title: Machine Learning Intern
       institution: <a href="https://primemedicine.com">Prime Medicine</a> 
       year: Jan 2023-June 2023
       description:
-        - Machine learning for designing CRISPR prime editors.
+        - DNA/RNA language modeling for optimizing the editing efficiency of CRISPR prime editors.
 
     - title: Machine Learning Research Intern
       institution: <a href="https://cortex.twitter.com/en.html">Twitter Cortex</a> 
       year: Jun 2022-Oct 2022
       description:
-          Causal graph machine learning for improving the performance of graph attention networks.
+          Causal graph machine learning for improving the performance and interpretability of graph attention networks.
 
     - title: Deep Learning Scientist Intern
       institution: <a href="https://www.quantum-si.com">Quantum-Si</a> 
