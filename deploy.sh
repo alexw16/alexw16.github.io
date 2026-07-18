@@ -3,8 +3,9 @@
 # Exit if any subcommand fails
 set -e
 
-# Build the site
-bundle exec jekyll build
+# Build the site (uses Homebrew Ruby; the macOS system Ruby's native-extension
+# headers don't match this Mac's SDK version and can't build gems like nokogiri/json)
+/opt/homebrew/opt/ruby/bin/bundle exec jekyll build
 
 # Switch to the gh-pages branch
 git checkout gh-pages
